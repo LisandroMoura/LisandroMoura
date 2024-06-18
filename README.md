@@ -24,3 +24,7 @@ Trabalhei por 7 anos como desenvolvedor Progress/ADVPL e consultor de sistemas E
 - Fortes habilidades de solução de problemas e capacidade de trabalhar de forma independente
 - Excelentes habilidades de comunicação e capacidade de trabalhar efetivamente em equipe
 
+# Projetos Atuais
+
+- [fraseteca.com.br](http://fraseteca.com.br/): Projeto de site otimizado para Google Search, desenvolvido em Laravel PHP e VueJS, com CMS BackEnd em React Native e JAVA.
+- [refletirpararefletir.com.br](https://www.refletirpararefletir.com.br/): Projeto de site em Wordpress com template e pluguins proprietários.
