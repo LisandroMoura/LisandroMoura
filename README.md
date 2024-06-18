@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Sou um programador com **mais de 26 anos de experiência** na área de programação e, após 12 anos empreendendo, estou em busca de uma nova oportunidade de recolocação no mercado de trabalho.
+Sou um programador com **mais de 26 anos de experiência** na área de programação e no mínimo 12 anos empreendendo na área de TI.
 
 # Experiência Profissional
 
