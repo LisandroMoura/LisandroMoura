@@ -5,7 +5,7 @@ Sou um programador com **mais de 26 anos de experiência** na área de programa�
 # Experiência Profissional
 
 Minha experiência como programador full stack é ampla, com foco significativo em Backend e um domínio consolidado na linguagem PHP, utilizando o framework Laravel e VueJs e criador de templates e pluguins Wordpress.
-Trabalhei por 7 anos como desenvolvedor Progress/ADVPL e consultor de sistemas ERP da TOTVS, onde adquiri amplo conhecimento em regras de negócio de gestão empresarial. Essa experiência me proporcionou uma compreensão profunda das necessidades e desafios enfrentados por empresas em diversos setores, permitindo-me desenvolver soluções eficazes e personalizadas para atender a essas demandas.
+Trabalhei por 7 anos como desenvolvedor [Progress 4GL OpenEdge](https://www.progress.com/openedge) / [Advpl](https://www.totvs.com/blog/developers/advpl/) e consultor de sistemas ERP da TOTVS, onde adquiri amplo conhecimento em regras de negócio de gestão empresarial. Essa experiência me proporcionou uma compreensão profunda das necessidades e desafios enfrentados por empresas em diversos setores, permitindo-me desenvolver soluções eficazes e personalizadas para atender a essas demandas.
 
 # Habilidades Técnicas
 
