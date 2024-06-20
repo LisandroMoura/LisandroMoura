@@ -1,6 +1,8 @@
-# Sobre Mim
+# Resumindo
 
-Sou um programador com **mais de 26 anos de experiência** na área de programação e no mínimo 12 anos empreendendo na área de TI.
+24+ anos de experiência em **programação**, 12+ anos em **PHP** e maestria no **Laravel** desde a versão 4.0.
+
+Cloud Infrastructure Engineer AWS e práticas DevOps.
 
 # Experiência Profissional
 
