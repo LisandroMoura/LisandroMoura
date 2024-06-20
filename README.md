@@ -1,4 +1,4 @@
-# Resumindo
+# Sobre mim
 
 24+ anos de experiência em **programação**, 12+ anos em **PHP** e maestria no **Laravel** desde a versão 4.0.
 
