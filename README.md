@@ -17,12 +17,6 @@
 - Lua **[good]**
 - TypeScript **[new]**
 
-# Qualidades Pessoais
-
-- Capacidade de escrever código limpo, modular e fácil de entender
-- Fortes habilidades de solução de problemas e capacidade de trabalhar de forma independente
-- Excelentes habilidades de comunicação e capacidade de trabalhar efetivamente em equipe
-
 # Projetos Atuais
 
 - [fraseteca.com.br](http://fraseteca.com.br/): Projeto de site otimizado para Google Search, desenvolvido em Laravel PHP e VueJS, com CMS BackEnd em React Native e JAVA.
