@@ -2,7 +2,7 @@
 
 24+ anos de experiência em **programação**, 12+ anos em **PHP** e maestria no **Laravel** desde a versão 4.0.
 
-Cloud Infrastructure Engineer AWS e práticas DevOps.
+**Cloud Infrastructure Engineer AWS** e ninja em **DevOps**.
 
 # Experiência Profissional
 
