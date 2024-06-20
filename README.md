@@ -5,12 +5,12 @@
 **Cloud Infrastructure Engineer AWS** e ninja **DevOps**.
 
 
-# Habilidades Técnicas
+# Habilidades Técnicas / Skills
 
 - PHP & Frameworks: Laravel, VueJs - **[ninja]**
 - JavaScript: Vanilla ES6+ **[expert]**
 - Git, GitFlow **[is life]**
-- Linguagens Adicionais: Java, Python, React Native **[like]**
+- Linguagens Adicionais: Java, Python, React Native **[good]**
 - Databases: PostgreSQL, Progress, MySql, Oracle, SQL. **[is life]** 
 - DevOps: Sólida experiência com shell script (bash) e administração de ambientes Linux (server-side) **[ninja++]**
 - AWS Cloud Infrastructure Engineer: EC2, Load Balancers, RDS, S3, CloudFront, entre outros **[expert]**
