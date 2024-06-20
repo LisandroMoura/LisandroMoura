@@ -7,13 +7,13 @@
 
 # Habilidades Técnicas / Skills
 
-- PHP & Frameworks: Laravel, VueJs - **[ninja]**
+- PHP & Frameworks: Laravel, VueJs - **[expert++]**
 - JavaScript: Vanilla ES6+ **[expert]**
 - TypeScript **[new]**
 - Git, GitFlow **[is life]**
 - Linguagens Adicionais: Java, Python, React Native **[good]**
 - Databases: PostgreSQL, Progress, MySql, Oracle, SQL. **[is life]** 
-- DevOps: Sólida experiência com shell script (bash) e administração de ambientes Linux (server-side) **[ninja++]**
+- DevOps: Sólida experiência com shell script (bash) e administração de ambientes Linux (server-side) **[expert++]**
 - AWS Cloud Infrastructure Engineer: EC2, Load Balancers, RDS, S3, CloudFront, entre outros **[expert]**
 - Lua **[good]**
 
