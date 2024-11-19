@@ -1,8 +1,8 @@
 # Dev Sênior
 
-24+ anos de experiência em **programação**, 12+ anos em **PHP** e Sênior no **Laravel** desde a versão 4.0.
+Progrador web, php.
 
-**Cloud Infrastructure Engineer AWS** e ninja **DevOps**.
+**Cloud Infrastructure Engineer AWS** e **DevOps**.
 
 
 # Habilidades Técnicas / Skills
