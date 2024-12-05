@@ -1,6 +1,6 @@
 # Dev Sênior
 
-Progrador web, php.
+Programador web, php.
 
 **Cloud Infrastructure Engineer AWS** e **DevOps**.
 
